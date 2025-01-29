@@ -1,0 +1,9 @@
+<FindBugsFilter>
+
+    <Match>
+        <Or>
+            <Package name="gradle.cucumber"/>
+        </Or>
+    </Match>
+
+</FindBugsFilter>

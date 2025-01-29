@@ -1,0 +1,1 @@
+This is just a placeholder. All feature files to be tested should go into this directory.
